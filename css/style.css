@@ -262,9 +262,11 @@ html {
 }
 
 .container {
+  background: rgb(251, 251, 253);
+}
+.test2 {
   max-width: 980px;
   margin: auto;
-  background: rgb(251, 251, 253);
 }
 
 .grid-containertext {
